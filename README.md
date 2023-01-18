@@ -1,1 +1,1 @@
-# first-web
+# first web launch using GitHub Pages
